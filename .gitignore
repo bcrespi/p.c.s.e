@@ -1,0 +1,7 @@
+# documentation and campressed package excluded
+doc/
+*.doc
+*.docx
+*.pdf
+*.zip
+*.rar
